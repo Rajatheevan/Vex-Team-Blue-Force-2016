@@ -1,0 +1,1 @@
+//Here is where all the variables that exist on the higher level are explained
